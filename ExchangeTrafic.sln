@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeTrafic", "ExchangeTrafic.csproj", "{49AB9EF7-65C2-47B8-B1A0-16C1505AFB53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49AB9EF7-65C2-47B8-B1A0-16C1505AFB53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49AB9EF7-65C2-47B8-B1A0-16C1505AFB53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49AB9EF7-65C2-47B8-B1A0-16C1505AFB53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49AB9EF7-65C2-47B8-B1A0-16C1505AFB53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FD01AAA-8F6D-4B98-B1F3-A9583760ECCC}
+	EndGlobalSection
+EndGlobal
